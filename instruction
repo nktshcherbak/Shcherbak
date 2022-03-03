@@ -1,0 +1,10 @@
+git branch name
+git checkout name
+
+add new files for example first.py
+
+git status
+git add first.pygit commit -m "commit"
+git push
+
+end
